@@ -11,6 +11,12 @@ class Product extends Controller
         $data['product'] = $model->getProduct();
         echo view('product_view',$data);
     }
+    public function view($id)
+    {
+        $model = new Product_model();
+        $data['product'] = $model->getProduct($id)->getRow();
+        echo view('details_product_view', $data);
+    }
 
     public function add_new()
     {
@@ -25,7 +31,7 @@ class Product extends Controller
             'product_price' => $this->request->getPost('product_price'),
         );
         $model->saveProduct($data);
-        return redirect()->to('/product');
+        return redirect()->to('/products');
     }
 
     public function edit($id)
@@ -44,13 +50,13 @@ class Product extends Controller
             'product_price' => $this->request->getPost('product_price'),
         );
         $model->updateProduct($data, $id);
-        return redirect()->to('/product');
+        return redirect()->to('/products');
     }
 
     public function delete($id)
     {
         $model = new Product_model();
         $model->deleteProduct($id);
-        return redirect()->to('/product');
+        return redirect()->to('/products');
     }
 }

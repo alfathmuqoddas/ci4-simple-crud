@@ -1,0 +1,444 @@
+CRITICAL - 2022-01-03 09:13:11 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:13:15 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:13:36 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:13:37 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:14:24 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:14:31 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:14:37 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:14:40 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:14:49 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:16:52 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:45 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:45 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:47 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:47 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:48 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:48 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:48 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:48 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:48 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:48 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:48 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:48 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:48 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:48 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:48 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:48 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:43:54 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:43:54 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:44:11 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:44:11 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:44:12 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:44:12 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:44:13 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:44:13 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:44:13 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:44:13 --> Uncaught TypeError: Argument 2 passed to CodeIgniter\Debug\Exceptions::maskSensitiveData() must be of the type array, null given, called in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php on line 243 and defined in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:262
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(243): CodeIgniter\Debug\Exceptions->maskSensitiveData()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgni
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:46:29 --> syntax error, unexpected '}', expecting ';' or ','
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Autoloader/Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+#3 [internal function]: spl_autoload_call()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(789): class_exists()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(397): CodeIgniter\CodeIgniter->startController()
+#6 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#7 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#8 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#9 {main}
+CRITICAL - 2022-01-03 09:46:29 --> Uncaught ErrorException: Undefined property: Config\Exceptions::$sensitiveDataInTrace in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:242
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(242): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:47:14 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getRow
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/app/Controllers/Product.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Product->view()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#6 {main}
+CRITICAL - 2022-01-03 09:47:14 --> Uncaught ErrorException: Undefined property: Config\Exceptions::$sensitiveDataInTrace in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:242
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(242): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:48:09 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getRow
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/app/Controllers/Product.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Product->view()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#6 {main}
+CRITICAL - 2022-01-03 09:48:09 --> Uncaught ErrorException: Undefined property: Config\Exceptions::$sensitiveDataInTrace in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:242
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(242): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:48:09 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getRow
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/app/Controllers/Product.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Product->view()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#6 {main}
+CRITICAL - 2022-01-03 09:48:09 --> Uncaught ErrorException: Undefined property: Config\Exceptions::$sensitiveDataInTrace in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:242
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(242): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:48:11 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getRow
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/app/Controllers/Product.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Product->view()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#6 {main}
+CRITICAL - 2022-01-03 09:48:11 --> Uncaught ErrorException: Undefined property: Config\Exceptions::$sensitiveDataInTrace in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:242
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(242): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-03 09:48:33 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getRow
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/app/Controllers/Product.php(17): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(824): App\Controllers\Product->view()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(410): CodeIgniter\CodeIgniter->runController()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/CodeIgniter.php(318): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/alfath2/Downloads/simple-crud-codeigniter4/public/index.php(45): CodeIgniter\CodeIgniter->run()
+#5 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(43): require_once('/home/alfath2/D...')
+#6 {main}
+CRITICAL - 2022-01-03 09:48:33 --> Uncaught ErrorException: Undefined property: Config\Exceptions::$sensitiveDataInTrace in /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php:242
+Stack trace:
+#0 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(242): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(225): CodeIgniter\Debug\Exceptions->collectVars()
+#2 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(232): CodeIgniter\Debug\Exceptions->CodeIgniter\Debug\{closure}()
+#3 /home/alfath2/Downloads/simple-crud-codeigniter4/vendor/codeigniter4/framework/system/Debug/Exceptions.php(116): CodeIgniter\Debug\Exceptions->render()
+#4 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#5 {main}
+  thrown
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
